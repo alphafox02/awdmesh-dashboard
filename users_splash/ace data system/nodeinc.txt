@@ -1,0 +1,2 @@
+#@#config splash-HTML
+page http://dashboard.awdmesh.com/users_splash/ace%20data%20system/splash.txt

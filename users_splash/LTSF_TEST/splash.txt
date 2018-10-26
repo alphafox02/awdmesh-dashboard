@@ -1,0 +1,7 @@
+<h1>
+	Not Found</h1>
+<p>
+	The requested URL /splash/$authtarget was not found on this server.</p>
+<hr />
+<address>
+	Apache/2.2.14 (Ubuntu) Server at dashboard.awdmesh.com Port 80</address>

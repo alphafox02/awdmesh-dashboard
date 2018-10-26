@@ -1,0 +1,52 @@
+<p>
+	&nbsp;</p>
+<p>
+	&nbsp;</p>
+<meta content="awd, hotel, resort" name="keywords" />
+<style type="text/css">
+body,td,th {font-family: Tahoma;font-size: 12px;color: #666666;}body {background-color: #BABAE3;	margin-left: 1px;margin-top: 1px;margin-right: 1px;margin-bottom: 1px;background-image: url(images/bg2.gif);background-repeat: repeat-x;a:hover {color: #005080;text-decoration: none;}.style1 {font-size: 16px;font-weight: bold;color: #CCCCCC;}.style3 {font-size: 18px;color: #662626;}.style4 {font-size: 11px;color: #FFFFFF;font-family: Arial, Helvetica, sans-serif;}a:link {color: #00406A;	text-decoration: none;}.style5 {font-size: 9px}.style7 {font-size: 9px; color: #FFFFFF; }.style8 {color: #CCCCCC}a:visited {color: #003F69;	text-decoration: none;}.style9 {font-size: 18px;color: #61839E;}a:active {text-decoration: none;}.style13 {color: #FFFFFF;	font-family: Arial, Helvetica, sans-serif;font-size: 16px;font-weight: bold;}.style14 {font-size: 16px; font-weight: bold; color: #CCCCCC; font-family: Arial, Helvetica, sans-serif; }.style15 {color: #CCCCCC; font-family: Arial, Helvetica, sans-serif; }</style>
+<center>
+	<img align="top" alt="Welcome!" src="images/header.jpg" style="width: 777px; height: 175px" />
+	<table bgcolor="#9c7aeb" border="0" cellpadding="8" cellspacing="1" style="width: 778px; height: 218px" width="778">
+		<tbody>
+			<tr>
+				<td height="149" width="493">
+					<h2>
+						<span style="font-size: 18px"><span style="color: #fff">&nbsp;<span style="font-family: trebuchet ms, helvetica, sans-serif">Welcome to your free Wi-Fi Network at Ludlam Point.</span></span></span></h2>
+					<h3 style="text-align: justify">
+						<span style="color: #fff"><span style="font-family: trebuchet ms, helvetica, sans-serif">This service is provided only to current residents of Ludlam Point.The log-in information, which will change from time to time, is available at the office. If you have not received the login information, please visit us&nbsp; during our regular business hours Tuesday to Friday from 9am to 6pm or Saturday from 10am to 4pm. Starting Tuseday, July 19th, 2011 you will be required to signup with the code that you get from us.</span></span></h3>
+					<h3 style="text-align: center">
+						<span style="color: #fff"><span style="font-family: trebuchet ms, helvetica, sans-serif">Enjoy your free amenity!&nbsp;</span></span><span style="color: #fff">&nbsp;</span></h3>
+				</td>
+				<td width="5">
+					<p align="left" class="style3">
+						<span style="color: #fff"><img height="100" src="images/Apartment-Spacer.gif" width="5" /></span></p>
+				</td>
+				<td width="190">
+					<p align="left" class="style9">
+						<span style="color: #fff"><span class="style13">Begin browsing</span></span></p>
+					<p align="left" class="style3">
+						<a href="$authtarget"><span style="color: #fff"><img alt="Begin browsing" border="0" height="20" src="images/Button-Enter2.gif" width="70" /></span></a></p>
+					<p align="left" class="style4">
+						<span style="color: #fff">Click above to see your homepage</span></p>
+				</td>
+			</tr>
+		</tbody>
+	</table>
+	<table bgcolor="#000000" border="0" cellpadding="0" cellspacing="0" style="width: 773px; height: 148px" width="773">
+		<tbody>
+			<tr>
+				<td>
+					<div align="center">
+						<span class="style7"><img alt="" src="images/footer.jpg" style="width: 777px; height: 130px" />&copy; Smartwires</span></div>
+				</td>
+			</tr>
+		</tbody>
+	</table>
+	<p class="style5">
+		&nbsp;</p>
+	<p class="style5">
+		&nbsp;</p>
+	<p class="style5">
+		&nbsp;</p>
+</center>

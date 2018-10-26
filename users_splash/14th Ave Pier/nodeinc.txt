@@ -1,0 +1,6 @@
+#@#config splash-HTML
+page http://dashboard.awdmesh.com/users_splash/14th%20Ave%20Pier/splash.txt
+image http://dashboard.awdmesh.com/users_splash/14th%20Ave%20Pier/images/splashpagepier14.png
+image http://dashboard.awdmesh.com/splash/ckeditor/plugins/templates/templates/images/Municipal-spacer.gif
+image http://dashboard.awdmesh.com/splash/ckeditor/plugins/templates/templates/images/Button-Enter-Muni.gif
+image http://dashboard.awdmesh.com/users_splash/14th%20Ave%20Pier/images/14_pier.jpg

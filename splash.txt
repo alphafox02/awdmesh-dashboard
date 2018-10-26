@@ -1,0 +1,32 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2//EN">
+<html>
+<head>
+<meta name="GENERATOR" content="Anaptyx Wireless Dynamics">
+<meta http-equiv="Content-Type" content="text/html;charset=ISO-8859-1" >
+<title>OpenWiFi</title>
+<script language="javascript"> 
+function OpenWiFi(){ 
+document.OpenWiFiLogin.submit(); 
+} 
+</script> 
+</head>
+<body onload="OpenWiFi()"> 
+<body bgcolor="#ffffff">
+<h1 align="center">&nbsp;</h1>
+<h1 align="center">
+<table border="0" cellspacing="0" cellpadding="3" width="100%" align="center">
+  
+  <tr>
+    <td>
+      <p>&nbsp;</p>
+<h2 align="center">
+<form method="post" name="OpenWiFiLogin" action="http://dashboard.awdmesh.com/tickets/portal/authorise.php">
+<input value="$authtarget" type="hidden" name="token">
+<input value="$gatewayname" type="hidden" name="node">
+<input value="$clientip" type="hidden" name="cip">
+<input value="$mac" type="hidden" name="mac">
+</form> </td></tr></table>
+  <p align="center"><font color=#AAAAAA> Please Wait</font></p></td></tr></table></h1>
+</body>
+</html>
+ 

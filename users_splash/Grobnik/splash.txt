@@ -1,0 +1,65 @@
+<p>
+	&nbsp;</p>
+<p>
+	&nbsp;</p>
+<p>
+	<img alt="Izdvajamo iz ponude" src="images/81.jpg" style="width: 120px; height: 81px;" /></p>
+<p>
+	&nbsp;</p>
+<style type="text/css">
+BODY {PADDING-RIGHT: 20px; PADDING-LEFT: 20px; BACKGROUND: #BDBDBD; PADDING-BOTTOM: 20px; FONT: 85% "Trebuchet MS",Arial,sans-serif; COLOR: #222; PADDING-TOP: 20px; TEXT-ALIGN: center}H1 {PADDING-RIGHT: 10px; PADDING-LEFT: 10px; FONT-WEIGHT: normal; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px}H2 {PADDING-RIGHT: 10px; PADDING-LEFT: 10px; FONT-WEIGHT: normal; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px}P {PADDING-RIGHT: 10px; PADDING-LEFT: 10px; FONT-WEIGHT: normal; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px}P {PADDING-RIGHT: 10px; PADDING-LEFT: 10px; PADDING-BOTTOM: 15px; PADDING-TOP: 0px}H1 {FONT-SIZE: 250%; COLOR: #fff; LETTER-SPACING: 1px}H2 {FONT-SIZE: 200%; COLOR: #002455; LINE-HEIGHT: 1}DIV#container {PADDING-RIGHT: 5px; PADDING-LEFT: 5px; BACKGROUND: #fff; PADDING-BOTTOM: 5px; MARGIN: 0px auto; WIDTH: 550px! important; PADDING-TOP: 5px; TEXT-ALIGN: left}DIV#header {PADDING-RIGHT: 10px; PADDING-LEFT: 10px; BACKGROUND: #04B404; PADDING-BOTTOM: 10px; PADDING-TOP: 10px; TEXT-ALIGN: center}DIV#content {PADDING-RIGHT: 0px; PADDING-LEFT: 0px; BACKGROUND: #ffffff; FLOAT: left; PADDING-BOTTOM: 10px; MARGIN: 5px 0px; WIDTH: 400px; PADDING-TOP: 10px}DIV#nav {PADDING-RIGHT: 0px; PADDING-LEFT: 0px; BACKGROUND: #ffd154; FLOAT: right; PADDING-BOTTOM: 10px; MARGIN: 5px 0px; WIDTH: 145px; PADDING-TOP: 10px}DIV#nav H2 {FONT-SIZE: 120%; COLOR: #9e4a24}DIV#footer {CLEAR: both; PADDING-RIGHT: 0px; PADDING-LEFT: 0px; BACKGROUND: #ffffff; PADDING-BOTTOM: 5px; WIDTH: 550px; ADDING-TOP: 5px; TEXT-ALIGN: center}</style>
+<div id="container">
+	<div id="header">
+		<h1>
+			Aerosteak WiFi</h1>
+	</div>
+	<div id="content">
+		<p>
+			<font size="3">Welcome to our open WiFi network!</font></p>
+		<h2>
+			<font size="3"><span style="font-weight: bold;">Free for Aerosteak Residents.</span></font></h2>
+		<p>
+			<br />
+			<font face="Arial, Helvetica"><b>Restoran <font size="+1">AEROSTEAK</font>, Soboli</b></font></p>
+		<p>
+			<img border="0" height="5" src="http://www.gastronaut.hr/images/hcrtica.gif" width="147" /><br />
+			<font face="Verdana, Arial, Helvetica" size="2"><b>vlasnik:</b> Aero D.N.S.<br />
+			</font></p>
+		<p>
+			<img border="0" height="5" src="http://www.gastronaut.hr/images/hcrtica.gif" width="147" /><br />
+			<font face="Verdana, Arial, Helvetica" size="2"><b>voditelj:</b> Dario Andri&#263;<br />
+			</font></p>
+		<p>
+			<img border="0" height="5" src="http://www.gastronaut.hr/images/hcrtica.gif" width="147" /><br />
+			<font face="Verdana, Arial, Helvetica" size="2"><b>kuhar:</b> Dalibor Fu&#263;ak<br />
+			</font></p>
+		<p>
+			<img border="0" height="5" src="http://www.gastronaut.hr/images/hcrtica.gif" width="147" /><br />
+			<font face="Verdana, Arial, Helvetica" size="2"><b>adresa:</b> <a href="http://maps.google.com/maps?f=q&amp;hl=hr&amp;q=Soboli%2035,%2051219%20%C4%8Cavle" id="poznamapi" name="Naziv restorana" onmouseout="tooltip_hide('map');" onmouseover="namapi('Soboli 35, 51219 
+&#268;avle','&#268;avle,+ Republika Hrvatska');" target="_new"> Soboli 35, 51219 &#268;avle </a><br />
+			<!-- http://maps.google.com/maps?f=q&hl=hr&q=3+Ulica+Franje+Brentinija,+Rijeka,+Primorsko-goranska,+Republika+Hrvatska&sll=45.306374,14.280965&sspn=0.010141,0.019312&g=3+Ulica+Franje+Brentinija,+Rijeka,+Primorsko-goranska,+Republika+Hrvatska&ie=UTF8&cd=2&geocode=FdqcswIdrH3cAA&ll=45.325524,14.45009&spn=0.010138,0.019312&z=16&iwloc=addr --></font></p>
+		<p>
+			<img border="0" height="5" src="http://www.gastronaut.hr/images/hcrtica.gif" width="147" /><br />
+			<font face="Verdana, Arial, Helvetica" size="2"><b>telefon:</b> (051) 250193</font></p>
+		&nbsp; <img border="0" height="5" src="http://www.gastronaut.hr/images/hcrtica.gif" width="147" /><br />
+		&nbsp; <font face="Verdana, Arial, Helvetica" size="2"><b>radno vrijeme: </b> 08-23</font></div>
+	<div id="nav">
+		<h2>
+			<font size="3">Please...</font></h2>
+		<p>
+			<br />
+			<font size="3">Danas izdvajamo iz ponude:</font></p>
+	</div>
+	<div id="footer" style="font-weight: bold;">
+		<table border="0" cellpadding="0" cellspacing="0" width="100%">
+			<tbody>
+				<tr>
+					<td bgcolor="#ffffff">
+						&nbsp;</td>
+					<td bgcolor="#c4e786" width="147">
+						<font size="3"><a href="$authtarget"><span style="font-size: 18pt;">Enter</span></a>&nbsp;</font></td>
+				</tr>
+			</tbody>
+		</table>
+	</div>
+</div>

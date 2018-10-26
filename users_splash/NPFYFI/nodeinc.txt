@@ -1,0 +1,2 @@
+#@#config splash-HTML
+page http://dashboard.awdmesh.com/users_splash/NPFYFI/splash.txt

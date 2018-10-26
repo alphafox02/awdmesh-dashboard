@@ -1,0 +1,5 @@
+#@#config splash-HTML
+page http://dashboard.awdmesh.com/users_splash/kikodugave/splash.txt
+image http://dashboard.awdmesh.com/users_splash/kikodugave/images/logo.gif
+image http://dashboard.awdmesh.com/splash/ckeditor/plugins/templates/templates/images/Municipal-spacer.gif
+image http://dashboard.awdmesh.com/splash/ckeditor/plugins/templates/templates/images/Button-Enter-Muni.gif

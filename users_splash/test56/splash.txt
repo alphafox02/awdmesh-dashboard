@@ -1,0 +1,8 @@
+<script language="javascript"> 
+function OpenWiFi(){ 
+document.OpenWiFiLogin.submit(); 
+}</script>
+<form action="https://hotspot.anaptyx.com/tickets/portal/authorise.php" method="post" name="OpenWiFiLogin">
+	<input name="token" type="hidden" value="$authtarget" /> <input name="node" type="hidden" value="$gatewayname" /> <input name="cip" type="hidden" value="$clientip" /> <input name="mac" type="hidden" value="$mac" /></form>
+<p align="center">
+	<font color="#AAAAAA">Please Wait</font></p>

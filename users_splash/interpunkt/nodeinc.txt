@@ -1,0 +1,3 @@
+#@#config splash-HTML
+page http://dashboard.awdmesh.com/users_splash/interpunkt/splash.txt
+image http://dashboard.awdmesh.com/users_splash/interpunkt/images/orange%20steady.png

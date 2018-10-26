@@ -1,0 +1,2 @@
+#@#config splash-HTML
+page http://dashboard.awdmesh.com/users_splash/HOB%20Myrtle%20Beach/splash.txt

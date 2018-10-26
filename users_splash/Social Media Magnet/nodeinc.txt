@@ -1,0 +1,2 @@
+#@#config splash-HTML
+page http://dashboard.awdmesh.com/users_splash/Social%20Media%20Magnet/splash.txt

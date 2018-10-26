@@ -1,0 +1,5 @@
+#@#config splash-HTML
+page http://dashboard.awdmesh.com/users_splash/Super9Motel/splash.txt
+image http://dashboard.awdmesh.com/splash/ckeditor/plugins/templates/templates/images/Hot1_header.jpg
+image http://dashboard.awdmesh.com/splash/ckeditor/plugins/templates/templates/images/Spacer.gif
+image http://dashboard.awdmesh.com/splash/ckeditor/plugins/templates/templates/images/Button-Enter.gif

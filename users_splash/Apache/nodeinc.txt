@@ -1,0 +1,9 @@
+#@#config splash-HTML
+page http://dashboard.awdmesh.com/users_splash/Apache/splash.txt
+image http://dashboard.awdmesh.com/users_splash/Apache/images/apache%202.bmp
+image http://dashboard.awdmesh.com/users_splash/Apache/images/apache3.bmp
+image http://dashboard.awdmesh.com/users_splash/Apache/images/apache%20campground.bmp
+image http://dashboard.awdmesh.com/splash/ckeditor/plugins/templates/templates/images/Header2-Hotel.gif
+image http://dashboard.awdmesh.com/splash/ckeditor/plugins/templates/templates/images/Spacer.gif
+image http://dashboard.awdmesh.com/users_splash/Apache/images/surfer%20logo%20round.png
+image http://dashboard.awdmesh.com/splash/ckeditor/plugins/templates/templates/images/Button.gif

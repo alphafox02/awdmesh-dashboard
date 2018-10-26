@@ -1,0 +1,44 @@
+<p style="text-align: center;">
+	<img alt="Ozark / Ft Rucker KOA" src="images/Logo KOA.png" style="width: 240px; height: 240px;" /></p>
+<center>
+	<table bgcolor="#ffffff" border="0" cellpadding="12" cellspacing="1" width="740">
+		<tbody>
+			<tr>
+				<td height="149" width="487">
+					<p align="left" class="style1 style14">
+						<span style="font-family: Arial, Helvetica, sans-serif;">Welcome to the&nbsp;Ozark /Ft. Rucker KOA Wi-Fi Network</span><br />
+						<span class="style15"> <span style="font-size: 14px">Provided FREE to Guests and Residents</span></span></p>
+					<p align="left" class="style16">
+						Please keep in mind;<br />
+						This is a shared resource, any that abuse the system will be denied access.<br />
+						While you surf, please help us keep the network experience great for everyone. Save large uploads and downloads for a private connection.</p>
+					<p align="left" class="style16">
+						Thank you for staying with us,</p>
+					<p align="left" class="style16">
+						<span class="style15">Ozark / Ft. Rucker KOA Staff</span></p>
+				</td>
+				<td width="9">
+					<p align="left" class="style3">
+						<img height="100" src="images/Camp-Spacer.gif" width="5" /></p>
+				</td>
+				<td width="168">
+					<p class="style9" style="text-align: center;">
+						<span class="style16">Begin browsing</span></p>
+					<p class="style3" style="text-align: center;">
+						<a href="$authtarget"><img alt="Begin browsing" border="0" height="20" src="images/Button-Enter3.gif" width="70" /></a></p>
+					<p align="left" class="style4">
+						&nbsp;</p>
+				</td>
+			</tr>
+		</tbody>
+	</table>
+	<p class="style5">
+		<br />
+		&nbsp;</p>
+	<p class="style5">
+		&nbsp;</p>
+</center>
+<p>
+	&nbsp;</p>
+<style type="text/css">
+body,td,th {	font-family: Tahoma;	font-size: 12px;color: #FDFCFF;}body {background-color: #ffff00;margin-left: 1px;margin-top: 1px;margin-right: 1px;margin-bottom: 1px;background-image: url(images/bg.gif);background-repeat: repeat-x;}a:hover {color: #005080;text-decoration: none;}.style1 {font-size: 16px;font-weight: bold;color: #CCCCCC;}.style3 {font-size: 18px;color: #662626;}.style4 {font-size: 11px;color: #000000;font-family: Arial, Helvetica, sans-serif;}a:link {	color: #00406A;text-decoration: none;}.style5 {	font-size: 9px}.style7 {font-size: 9px; color: #FFFFFF; }.style8 {color: #CCCCCC}a:visited {color: #003F69;text-decoration: none;}.style9 {font-size: 18px;color: #61839E;}a:active {text-decoration: none;}.style14 {color: #000000}.style15 {font-family: Arial, Helvetica, sans-serif}.style16 {color: #000000; font-family: Arial, Helvetica, sans-serif; }</style>

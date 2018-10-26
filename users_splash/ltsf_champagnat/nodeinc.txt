@@ -1,0 +1,3 @@
+#@#config splash-HTML
+page http://dashboard.awdmesh.com/users_splash/ltsf_champagnat/splash.txt
+image http://www.ltsf.ca/images/entete.png

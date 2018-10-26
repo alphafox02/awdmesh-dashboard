@@ -1,0 +1,7 @@
+#@#config splash-HTML
+page http://dashboard.awdmesh.com/users_splash/EDRV/splash.txt
+image http://dashboard.awdmesh.com/splash/ckeditor/plugins/templates/templates/images/Header-Hotel.jpg
+image http://dashboard.awdmesh.com/splash/ckeditor/plugins/templates/templates/images/Header-Hotel1.jpg
+image http://dashboard.awdmesh.com/splash/ckeditor/plugins/templates/templates/images/Header2-Hotel.gif
+image http://dashboard.awdmesh.com/splash/ckeditor/plugins/templates/templates/images/Spacer.gif
+image http://dashboard.awdmesh.com/splash/ckeditor/plugins/templates/templates/images/Button.gif

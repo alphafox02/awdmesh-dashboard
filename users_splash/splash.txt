@@ -1,0 +1,32 @@
+<p>
+	&nbsp;</p>
+<p>
+	&nbsp;</p>
+<style type="text/css">
+body{background-color: #232;margin:0px;padding:0px;text-align:center;font-family: Georgia, Times, serif;font-size:13px;color:#252;background:url(pattern_bg.gif);line-height:20px;}#wrapper {text-align:left;margin:0 auto;width:850px;margin-top:18px;border:2px solid #B4B744;background:white;}a:hover {color: #005080;text-decoration: none;}a:link {color: #00406A;text-decoration: none;}.style1 {font-size: 18px;font-weight: bold;}.style2 {color: #999999}</style>
+<div id="wrapper">
+	<img src="ckeditor/plugins/templates/templates/images/Cam2_header.jpg" />
+	<div style="background: none repeat scroll 0% 0% rgb(204, 102, 0);">
+		<img src="ckeditor/plugins/templates/templates/images/Cam2_lady_laptop.jpg" style="margin-right: 2px;" /><img src="ckeditor/plugins/templates/templates/images/Cam2_fall.jpg" style="margin-right: 2px;" /><img src="ckeditor/plugins/templates/templates/images/Cam2_bike.jpg" style="margin-right: 2px;" /><img src="ckeditor/plugins/templates/templates/images/Cam2_family.jpg" /><img src="ckeditor/plugins/templates/templates/images/Cam2_divider.jpg" /></div>
+	<div style="background-image: url(&quot;bg.jpg&quot;); background-repeat: repeat-x; background-color: rgb(255, 255, 255); padding-left: 190px; padding-right: 40px;">
+		<br />
+		<span class="style1">Welcome to the network!</span>
+		<div style="float: right; width: 200px; margin-left: 15px; padding-left: 15px; margin-top: 15px; border-left: 2px dotted rgb(153, 204, 0);">
+			<p align="left" class="style9">
+				<br />
+				<br />
+				<span class="style24">Click to start browsing</span>:</p>
+			<p align="left" class="style3">
+				<span class="style18"><a href="$authtarget"><img alt="Begin browsing" border="0" height="35" src="ckeditor/plugins/templates/templates/images/Cam2_enter_green.jpg" width="120" /></a></span></p>
+			<p align="left" class="style4">
+				AWD</p>
+		</div>
+		<p align="left">
+			Make a respectful use of the network by avoiding large downloads so that everyone can benefit from an acceptable speed.</p>
+		Thanks!<br />
+		
+		&nbsp;</div>
+	<img height="20" src="ckeditor/plugins/templates/templates/images/Cam2_footer.jpg" width="850" /></div>
+<p>
+	<span class="style2">&copy; 2010 AWD Mesh</span><br />
+	&nbsp;</p>

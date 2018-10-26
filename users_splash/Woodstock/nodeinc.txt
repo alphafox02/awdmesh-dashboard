@@ -1,0 +1,5 @@
+#@#config splash-HTML
+page http://dashboard.awdmesh.com/users_splash/Woodstock/splash.txt
+image http://wirelesswoodstock.org/wp-content/uploads/2011/05/cropped-wiwo_header_woodstockinn_0511.jpg
+image http://www.wirelesswoodstock.org/images/wiwo_coverage_v2.gif
+image http://www.summittechnologies.biz/images/logo.png

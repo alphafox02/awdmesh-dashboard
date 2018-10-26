@@ -1,0 +1,40 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html>
+  <head>
+  <title>CloudController Voucher Login</title>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <link href="css/960.css" rel="stylesheet" type="text/css" media="all" />
+  <link href="css/reset.css" rel="stylesheet" type="text/css" media="all" />
+  <link href="css/text.css" rel="stylesheet" type="text/css" media="all" />
+  <link href="css/login2.css" rel="stylesheet" type="text/css" media="all" />
+  <script src="js/ajax_framework.js" type="text/javascript"></script>
+  <script type="text/javascript">
+  function submitform()
+{
+  document.formLogin.submit();
+}
+ </script>
+ 
+</head>
+
+<body onload="document.getElementById('emailLogin').focus();">
+<div class="container_16">
+<div class="grid_6 prefix_5 suffix_5">
+<h1>Login</h1>
+<div id="login">
+<div id="login_response"></div>
+<form id="formLogin" name="formLogin" method="post" action="javascript:login()">
+  <p> <label><strong>Username</strong> <input name="emailLogin" class="inputText" id="emailLogin" type="text" /> </label> </p>
+  <p> <label><strong>Password</strong> <input name="pswLogin" class="inputText" id="pswLogin" type="password" /> </label> </p>
+  <a href="javascript:submitform();" class="black_button"><span>Log Me
+In!</span></a> <label> <input name="checkbox" id="checkbox" type="checkbox" /> Remember me</label> </form>
+<br clear="all" />
+</div>
+<div id="forgot"> <a href="forgotpassword.html" class="forgotlink"><span>Forgot
+your username or password?</span></a></div>
+</div>
+</div>
+<br clear="all" />
+
+
+</body></html>

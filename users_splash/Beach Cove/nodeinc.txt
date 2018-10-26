@@ -1,0 +1,10 @@
+#@#config splash-HTML
+page http://dashboard.awdmesh.com/users_splash/Beach%20Cove/splash.txt
+image http://dashboard.awdmesh.com/users_splash/Beach%20Cove/images/beachcove222.jpg
+image http://dashboard.awdmesh.com/users_splash/Beach%20Cove/images/beach%20cove%20indoor.jpg
+image http://dashboard.awdmesh.com/users_splash/Beach%20Cove/images/beachcove3.jpg
+image http://dashboard.awdmesh.com/users_splash/Beach%20Cove/images/beach-cove-pool.jpg
+image http://dashboard.awdmesh.com/users_splash/Beach%20Cove/images/beach%20cove(1).png
+image http://dashboard.awdmesh.com/splash/ckeditor/plugins/templates/templates/images/Spacer.gif
+image http://dashboard.awdmesh.com/users_splash/Beach%20Cove/images/surfer%20logo(1).png
+image http://dashboard.awdmesh.com/splash/ckeditor/plugins/templates/templates/images/Button.gif

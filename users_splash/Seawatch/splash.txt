@@ -1,0 +1,76 @@
+<p>
+	&nbsp;</p>
+<p>
+	&nbsp;</p>
+<p>
+	&nbsp;</p>
+<style type="text/css">
+body,td,th {font-family: Tahoma;font-size: 12px;color: #666666;}body {margin-left: 1px;margin-top: 1px;margin-right: 1px;margin-bottom: 1px;background-image: url(images/BG.gif);background-repeat: repeat-x;background-color: #00355B;}a:hover {color: #005080;text-decoration: none;}.style1 {font-size: 16px;font-weight: bold;color: #CCCCCC;}.style3 {	font-size: 18px;color: #662626;}.style4 {	font-size: 12px;color: #1E4562;font-family: Arial, Helvetica, sans-serif;}a:link {	color: #00406A;	text-decoration: none;}.style5 {font-size: 9px}.style7 {font-size: 9px; color: #FFFFFF; }.style8 {color: #CCCCCC}a:visited {color: #003F69;	text-decoration: none;}.style9 {font-size: 18px;color: #61839E;}a:active {	text-decoration: none;}.style11 {font-size: 16px;font-weight: bold;	color: #1E4562;	font-family: Arial, Helvetica, sans-serif;}.style12 {color: #1E4562; font-family: Arial, Helvetica, sans-serif; }.style14 {font-size: 18px; color: #662626; font-family: Arial, Helvetica, sans-serif; }</style>
+<center>
+	<table border="0" cellpadding="0" cellspacing="0" width="740">
+		<tbody>
+			<tr>
+				<td width="160">
+					<img alt="" src="/users_splash/Citywideadmin/images/sea-watch-pool1.jpg" style="width: 206px; height: 164px;" /></td>
+				<td>
+					<img src="/users_splash/Citywideadmin/images/SEAWATCHTOWERS.jpg" style="width: 580px; height: 163px;" /></td>
+			</tr>
+		</tbody>
+	</table>
+	<img height="37" src="images/Header2-Hotel.gif" width="740" />
+	<table bgcolor="#ffffff" border="0" cellpadding="8" cellspacing="1" width="740">
+		<tbody>
+			<tr>
+				<td height="149" width="493">
+					<p align="left" class="style1">
+						&nbsp;</p>
+					<p align="left" class="style11">
+						Welcome to the Seawatch Towers Wi-Fi Network!</p>
+					<p align="left" class="style11">
+						&nbsp;</p>
+					<p align="left" class="style12">
+						Thank you for visiting. We truly hope you enjoy your experience while you are here.</p>
+					<p align="left" class="style8">
+						<span style="color: rgb(255, 0, 0);">Please be advised that Citywide WiFi has purchased the contracts of Connect Freely. We are diligently working to replace the existing network equipment and are adding 4 times the amount of bandwidth.&nbsp; Please be patient as a faster network is on the way! </span></p>
+					<p align="left" class="style12">
+						<br />
+						Thanks again,</p>
+					<p align="left" class="style12">
+						Hotel Management and City Wide WiFi</p>
+					<p align="left" class="style8">
+						&nbsp;</p>
+				</td>
+				<td width="5">
+					<p align="left" class="style3">
+						<img height="100" src="images/Spacer.gif" width="5" /></p>
+				</td>
+				<td width="190">
+					<p align="left" class="style9">
+						<span class="style12"><span class="style12"><img alt="" src="/users_splash/Citywideadmin/images/surfer logo round.png" style="width: 140px; height: 123px;" /></span></span></p>
+					<p align="left" class="style9">
+						<span class="style12">Begin browsing</span></p>
+					<p align="left" class="style14">
+						<a href="$authtarget"><img alt="Begin browsing" border="0" height="20" src="images/Button.gif" width="70" /></a></p>
+					<p align="left" class="style4">
+						&nbsp;</p>
+				</td>
+			</tr>
+		</tbody>
+	</table>
+	<table bgcolor="#929b42" border="0" cellpadding="0" cellspacing="0" width="740">
+		<tbody>
+			<tr>
+				<td>
+					<div align="center">
+						<span class="style7">2011 &copy; CityWide WiFi</span></div>
+				</td>
+			</tr>
+		</tbody>
+	</table>
+	<p class="style5">
+		&nbsp;</p>
+	<p class="style5">
+		&nbsp;</p>
+	<p class="style5">
+		&nbsp;</p>
+</center>

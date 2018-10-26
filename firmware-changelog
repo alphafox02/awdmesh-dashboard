@@ -1,0 +1,25 @@
+4736
+"	FIX: Increase MTU on Transparent Bridge mode
+	NEW: Update Batman-adv for bridge mode
+4735
+"	FIX: Five minute check-in
+	FIX: [OD2-900N] remove OLSR rssi plugin for now
+4734
+"	NEW: Faster initial check-in
+"	NEW: [OD2-N/ID2-N MIMO] Mesh security watchdog
+"	NEW: [OD2-900N/OD2-N/ID2-N] Ath9k upgraded (testing)
+
+4732
+"	NEW: [OD2-900N] Ath9k driver updated to latest openwrt backfire branch source (testing)
+"	NEW: [OD2-900N] OLSR rssi based plugin (testing)
+"	FIX: "macpassword=password" for Radius based options
+"	FIX: STP on Gateways to prevent routing loops when using bridge mode 
+
+4730
+"	NEW: Optionally bridge lan port to SSID #2
+	NEW: VLAN Support
+4721
+"	NEW: Transparent Bridge mode
+4720
+"	NEW: Atheros based driver update
+	

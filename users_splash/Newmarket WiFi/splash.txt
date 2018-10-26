@@ -1,0 +1,46 @@
+<p>
+	&nbsp;</p>
+<p>
+	&nbsp;</p>
+<p>
+	&nbsp;</p>
+<p>
+	&nbsp;</p>
+<table bgcolor="#ffffff" border="0" bordercolor="#000000" cellpadding="8" cellspacing="1" width="900">
+	<tbody>
+		<tr>
+			<td height="235" width="493">
+				<p align="left" class="style1 style22">
+					Welcome!</p>
+				<p align="left" class="style25">
+					This network access is provided to you by the Newmarket Business Association, in concert with the Town of Newmarket.. We hope you enjoy your experience. While you surf, please help us keep the network experience great for everyone. Save large uploads and downloads for a private connection.</p>
+				<p align="left" class="style25">
+					The Newmarket WiFi is provided to give our Community, Students, and Visitors access to WiFi.&nbsp; &nbsp;It is not intended for, nor designed as a substitute for a private internet connection.&nbsp;&nbsp;</p>
+				<p align="left" class="style25">
+					Please take notice!&nbsp; While an open WiFi system can be a great convenience, it also is by its definition, unsecured.&nbsp;&nbsp; Please be certain&nbsp; you understand the inherent risks in connecting to an unsecured system before taking advantage of it.&nbsp;&nbsp;</p>
+				<p align="left" class="style25">
+					If you have any questions about this, or any other concerns about the Newmarket WiFi, please&nbsp;call or email us&nbsp;@ <a href="mailto:help@geektoyou.net">help@geektoyou.net</a>.&nbsp;We welcome any suggestions you have as we continue to improve and upgrade the system.&nbsp; In the mean time, please enjoy this free access, complements of the Newmarket Business Association.</p>
+				<p align="left" class="style25">
+					Thanks!</p>
+				<p align="left" class="style25">
+					Rod Ricard</p>
+				<p align="left" class="style25">
+					Geek To You&nbsp; 603 292-6503</p>
+			</td>
+			<td width="5">
+				<p align="left" class="style3">
+					<img height="100" src="images/Municipal-spacer.gif" width="5" /></p>
+			</td>
+			<td width="190">
+				<p align="left" class="style9">
+					<span class="style25">Begin browsing</span></p>
+				<p align="left" class="style23">
+					<a href="$authtarget"><img alt="Begin browsing" border="0" height="20" src="images/Button-Enter-Muni.gif" width="70" /></a></p>
+				<p align="left" class="style3">
+					&nbsp;*High download users are blocked.</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+<p>
+	&nbsp;</p>

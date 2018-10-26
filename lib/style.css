@@ -1,0 +1,227 @@
+html,body{margin:0;padding:0}
+body{font-family: Helvetica,Arial,sans-serif; font-size: 0.8em;height:100%;
+    text-align: center;padding-bottom:0px}
+p{margin-top:0}
+h1,h2,h3{font: normal normal 200% Helvetica,Arial,sans-serif; border-bottom: 1px dotted #bbbbbb; color: #76A741;}
+h2{font-size:160%}
+h3{font-size:120%}
+h4{border-bottom: 1px dotted #bbbbbb;}
+
+div#overview{background: #FFF;padding-left:30px}
+
+div#header{background-image: url(WrapperBg.jpg);background-repeat: no-repeat;width:800px;margin: 0 auto;overflow:hidden}
+div#header h1{width:800px;margin:10 auto;text-align:left;background-color:transparent}
+div#header h1{padding: 2px 0 2px;color: #FFF}
+
+div#menu
+{
+font-size: 1.2em;
+margin:10 auto;
+background-color: transparent;
+}
+
+div#menu ul
+{
+padding: .2em 0;
+margin: 0;
+list-style-type: none;
+background-color: #76A741;
+color: #FFF;
+width: 100%;
+font: normal 90% Helvetica, Arial, sans-serif;
+text-align: center;
+}
+
+div#menu li
+{
+display: inline;
+}
+
+div#menu li#left
+{
+padding: .2em 0;
+border-left: 1px solid #fff;
+}
+
+div#menu li a
+{
+text-decoration: none;
+background-color: #76A741;
+color: #FFF;
+padding: .2em 1em;
+border-right: 1px solid #fff;
+}
+
+div#menu li a:hover
+{
+text-decoration: underline;
+}
+
+/* ruckman's table settings! */
+
+table {
+        border-color: #000;
+        border-width: 0 0 0px 0px;
+        border-style: solid;
+        padding-top: 0px;
+        padding-right: 0px;
+        padding-bottom: 0px;
+        padding-left: 0px;
+}
+table#edit_net {
+		padding-left: 10%;
+		padding-right: 10%;
+}
+
+td
+{
+		font-family: Helvetica, Arial,sans-serif;
+        font-size: 0.87em;
+        border-width: 0px 0px 0px 0px;
+        border-style: solid;
+        margin: 0;
+        padding: 0px;
+        background-color: #FFF;
+        border-color: #000;
+}
+div.comment {
+		background-color: #DFDFDF;
+		margin-bottom: 10px;
+		padding: 10px;
+		font-size: 90%;
+        margin: 20;
+
+}
+
+div.note {
+		background-color: #DFDFDF;
+		margin-bottom: 10px;
+		padding: 10px;
+	    margin-left: auto;
+        margin-right: auto;
+        width: 50%;
+}
+
+/* update text (ex, updated network settings) */
+div.success {
+		color: #00CC00;
+		font-weight: bold;
+}
+
+/* error text (ex, no nodes associated with network)*/
+div.error {
+		color: #FF0000;
+		font-weight: bold;
+}
+/* error text (ex, no nodes associated with network)*/
+div.warning {
+		color: #FF6600;
+		font-weight: bold;
+}
+div.error a:link{color: #FF0000;}
+div.error a:visited{color: #FF0000;}
+div.error a:active{color: #FF0000;}
+
+/*generic table rows */
+tr {
+		margin: 10px;
+}
+
+/* field names in the status table */
+tr.fields td {
+		border-width: 0px 0px 2px 0px;
+    	border-style: solid;
+		border-color: #000;
+}
+
+/* data rows in status table for down nodes */
+tr.down td {
+		color: #FF0000
+}
+
+/* data rows in status table for down nodes */
+tr.warning td {
+		color: #FF6600
+}
+span.warn {
+		color: #ee6611;
+		font-weight: bold;
+}
+/* make visited links be blue, not purple */
+a:visited{color: blue;}
+
+
+    dl {
+        margin: 0;
+        padding: 0;
+    }
+    dt {
+        position: relative; /* IE is dumb */
+        clear: both;
+        display: block;
+        float: left;
+        width: 104px;
+        height: 20px;
+        line-height: 20px;
+        margin-right: 17px;
+        font-size: .75em;
+        text-align: right;
+    }
+    * html dd { float: none; }
+    /* IE is dumb; Quick IE hack, apply favorite filter methods for
+    wider browser compatibility */
+    dd {
+        position: relative; /* IE is dumb */
+        display: block;
+        float: left;
+        width: 99px;
+        height: 10px;
+        margin: 0 0 15px;
+        background: url("../status/images/calidad.jpg");
+     }
+     dd div {
+        position: relative;
+        height: 10px;
+        width: 75%;
+        text-align:right;
+     }
+     dd div strong {
+        position: absolute;
+        right: 0px;
+        top: -1px;
+        display: block;
+        background: url("../status/images/marcador.gif");
+        height: 12px;
+        width: 5px;
+        text-align: left;
+        text-indent: -9999px;
+        overflow: hidden;
+     }
+    ddoff {
+        position: relative; /* IE is dumb */
+        display: block;
+        float: left;
+        width: 99px;
+        height: 10px;
+        margin: 0 0 15px;
+        background: url("../status/images/calidadoff.jpg");
+     }
+     ddoff div {
+        position: relative;
+        height: 10px;
+        width: 75%;
+        text-align:right;
+     }
+     ddoff div strong {
+        position: absolute;
+        right: 0px;
+        top: -1px;
+        display: block;
+        background: url("../status/images/marcador.gif");
+        height: 12px;
+        width: 5px;
+        text-align: left;
+        text-indent: -9999px;
+        overflow: hidden;
+     }
+

@@ -1,0 +1,2 @@
+#@#config splash-HTML
+page http://dashboard.awdmesh.com/users_splash/PCV_295/splash.txt

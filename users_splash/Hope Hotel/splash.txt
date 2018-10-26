@@ -1,0 +1,62 @@
+<p>
+	&nbsp;</p>
+<style type="text/css">
+body,td,th {font-family: Tahoma;font-size: 12px;color: #666666;}body {margin-left: 1px;margin-top: 1px;margin-right: 1px;margin-bottom: 1px;background-image: url(BG2.jpg);background-repeat: repeat-x;}a:hover {color: #005080;text-decoration: none;}.style1 {font-size: 16px;font-weight: bold;color: #CCCCCC;}.style3 {font-size: 18px;color: #662626;}.style4 {font-size: 12px;color: #1E4562;}a:link {color: #00406A;text-decoration: none;}.style5 {font-size: 9px}.style7 {font-size: 9px; color: #FFFFFF; }.style8 {color: #CCCCCC}a:visited {color: #003F69;text-decoration: none;}.style9 {font-size: 18px;color: #61839E;}a:active {text-decoration: none;}.style10 {color: #1E4562}</style>
+<center>
+	<p>
+		&nbsp;</p>
+	<table border="0" cellpadding="0" cellspacing="0" width="740">
+		<tbody>
+			<tr>
+				<td nowrap="nowrap">
+					<img height="160" src="images/Hot1_header.jpg" width="740" /></td>
+			</tr>
+		</tbody>
+	</table>
+	<table bgcolor="#61839e" border="0" cellpadding="8" cellspacing="1" width="740">
+		<tbody>
+			<tr>
+				<td height="149" width="493">
+					<p align="left" class="style1">
+						&nbsp;</p>
+					<p align="left" class="style1">
+						Welcome to Hope Hotel&#39;s Wi-Fi Network!</p>
+					<p align="left" class="style8">
+						Thank you for visiting. We truly hope you enjoy your experience while you are here. While you surf or work, please help us keep the network experience great for everyone. Save large transfers until you are at a private location.</p>
+					<p align="left" class="style8">
+						Thanks again,</p>
+					<p align="left" class="style8">
+						&nbsp;</p>
+					<p align="left" class="style8">
+						&nbsp;</p>
+				</td>
+				<td width="5">
+					<p align="left" class="style3">
+						<img height="100" src="images/Spacer.gif" width="5" /></p>
+				</td>
+				<td width="190">
+					<p align="left" class="style9">
+						<span class="style10">Begin browsing</span></p>
+					<p align="left" class="style3">
+						<a href="$authtarget"><img alt="Begin browsing" border="0" height="20" src="images/Button-Enter.gif" width="70" /></a></p>
+					<p align="left" class="style4">
+						Vist Packy&#39;s Resturant.</p>
+				</td>
+			</tr>
+		</tbody>
+	</table>
+	<table bgcolor="#1d4662" border="0" cellpadding="0" cellspacing="0" width="740">
+		<tbody>
+			<tr>
+				<td>
+					<div align="center">
+						<span class="style7">&copy; 2010 WireFree Networks</span></div>
+				</td>
+			</tr>
+		</tbody>
+	</table>
+	<p class="style5">
+		&nbsp;</p>
+	<p class="style5">
+		&nbsp;</p>
+</center>

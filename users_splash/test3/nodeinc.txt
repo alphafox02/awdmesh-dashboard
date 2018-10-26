@@ -1,0 +1,6 @@
+#@#config splash-HTML
+page http://dashboard.awdmesh.com/users_splash/test3/splash.txt
+image http://dashboard.awdmesh.com/splash//users_splash/test3/images/SDC10415.JPG
+image http://dashboard.awdmesh.com/splash/ckeditor/plugins/templates/templates/images/Spacer.gif
+image http://dashboard.awdmesh.com/splash/ckeditor/plugins/templates/templates/images/Button-Enter.gif
+image http://dashboard.awdmesh.com/splash/ckeditor/plugins/templates/templates/images/Res1_footer.jpg

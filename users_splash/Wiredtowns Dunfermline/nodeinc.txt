@@ -1,0 +1,3 @@
+#@#config splash-HTML
+page http://dashboard.awdmesh.com/users_splash/Wiredtowns%20Dunfermline/splash.txt
+image http://dashboard.awdmesh.com/users_splash/Wiredtowns%20Dunfermline/images/wtlogo2a.jpg
