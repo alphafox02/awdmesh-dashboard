@@ -1,4 +1,0 @@
-#@#config splash-HTML
-page http://dashboard.awdmesh.com/users_splash/SummitTesting/splash.txt
-image http://dashboard.awdmesh.com/splash/ckeditor/plugins/smiley/images/shades_smile.gif
-image http://dashboard.awdmesh.com/splash/&lt;a%20href=&quot;http://www.threadbombing.com/details.php?image_id=5451&quot;&gt;&lt;img%20src=%20&quot;http://www.threadbombing.com/data/media/4/duhhh.jpg&quot;%20border=&quot;0&quot;%20alt=&quot;Misc.%20Bombs&quot;%20%20/&gt;%20&lt;/a&gt;

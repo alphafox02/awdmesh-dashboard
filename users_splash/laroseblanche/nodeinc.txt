@@ -1,2 +1,0 @@
-#@#config splash-HTML
-page https://dashboard.awdmesh.com/users_splash/laroseblanche/splash.txt

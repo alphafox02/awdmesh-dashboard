@@ -1,3 +1,0 @@
-#@#config splash-HTML
-page http://dashboard.awdmesh.com/users_splash/Happydays/splash.txt
-image http://dashboard.awdmesh.com/users_splash/Happydays/images/happydays_entrance.jpg

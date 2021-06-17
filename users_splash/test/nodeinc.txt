@@ -1,5 +1,0 @@
-#@#config splash-HTML
-page http://dashboard.awdmesh.com/users_splash/test/splash.txt
-image http://dashboard.awdmesh.com/splash/ckeditor/plugins/templates/templates/images/Campground-Header.jpg
-image http://dashboard.awdmesh.com/splash/ckeditor/plugins/templates/templates/images/Camp-Spacer.gif
-image http://dashboard.awdmesh.com/splash/ckeditor/plugins/templates/templates/images/Button-Enter3.gif

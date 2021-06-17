@@ -1,5 +1,0 @@
-#@#config splash-HTML
-page http://dashboard.awdmesh.com/users_splash/wifirushtest/splash.txt
-image http://dashboard.awdmesh.com/splash/ckeditor/plugins/templates/templates/images/Apartment-Header1A.jpg
-image http://dashboard.awdmesh.com/splash/ckeditor/plugins/templates/templates/images/Apartment-Spacer.gif
-image http://dashboard.awdmesh.com/splash/ckeditor/plugins/templates/templates/images/Button-Enter2.gif

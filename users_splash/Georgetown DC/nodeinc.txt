@@ -1,2 +1,0 @@
-#@#config splash-HTML
-page http://dashboard.awdmesh.com/users_splash/Georgetown%20DC/splash.txt

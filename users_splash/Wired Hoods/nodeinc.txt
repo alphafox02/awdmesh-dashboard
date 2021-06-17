@@ -1,7 +1,0 @@
-#@#config splash-HTML
-page http://dashboard.awdmesh.com/users_splash/Wired%20Hoods/splash.txt
-image http://dashboard.awdmesh.com/users_splash/Wired%20Hoods/images/TempPageConcept-2_01.png
-image http://dashboard.awdmesh.com/users_splash/Wired%20Hoods/images/TempPageConcept-2_02(1).png
-image http://dashboard.awdmesh.com/splash/ckeditor/plugins/templates/templates/images/Button-Enter-Muni.gif
-image http://dashboard.awdmesh.com/users_splash/Wired%20Hoods/images/TempPageConcept-2_04(1).png
-image http://dashboard.awdmesh.com/users_splash/Wired%20Hoods/images/TempPageConcept-2_05.png

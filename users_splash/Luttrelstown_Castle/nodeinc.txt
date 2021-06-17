@@ -1,2 +1,0 @@
-#@#config splash-HTML
-page http://dashboard.awdmesh.com/users_splash/Luttrelstown_Castle/splash.txt

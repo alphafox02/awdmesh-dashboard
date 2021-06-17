@@ -1,5 +1,0 @@
-#@#config splash-HTML
-page http://dashboard.awdmesh.com/users_splash/Brazil%20Test/splash.txt
-image http://dashboard.awdmesh.com/users_splash/Brazil%20Test/images/RIO-UPSCALE_HEADER_4x1.jpg
-image http://connect.facebook.net/en_US/all.js#xfbml=1
-image http://dashboard.awdmesh.com/users_splash/Brazil%20Test/images/facebook_like_button_2x1.jpg

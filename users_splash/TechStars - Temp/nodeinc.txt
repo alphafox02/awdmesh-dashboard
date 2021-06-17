@@ -1,3 +1,0 @@
-#@#config splash-HTML
-page http://dashboard.awdmesh.com/users_splash/TechStars%20-%20Temp/splash.txt
-image http://dashboard.awdmesh.com/users_splash/TechStars%20-%20Temp/images/smalllogo.jpg

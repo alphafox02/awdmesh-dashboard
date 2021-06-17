@@ -1,4 +1,0 @@
-#@#config splash-HTML
-page http://dashboard.awdmesh.com/users_splash/Huettendorf/splash.txt
-image http://dashboard.awdmesh.com/users_splash/Huettendorf/images/Banner2.png
-image http://dashboard.awdmesh.com/users_splash/Huettendorf/images/huettendorfmariaalm_en.png

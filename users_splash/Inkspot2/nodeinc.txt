@@ -1,3 +1,0 @@
-#@#config splash-HTML
-page http://dashboard.awdmesh.com/users_splash/Inkspot2/splash.txt
-image http://dashboard.awdmesh.com/users_splash/Inkspot2/images/cheltsc.jpg

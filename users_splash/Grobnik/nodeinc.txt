@@ -1,9 +1,0 @@
-#@#config splash-HTML
-page http://dashboard.awdmesh.com/users_splash/Grobnik/splash.txt
-image http://dashboard.awdmesh.com/users_splash/Grobnik/images/81.jpg
-image http://www.gastronaut.hr/images/hcrtica.gif
-image http://www.gastronaut.hr/images/hcrtica.gif
-image http://www.gastronaut.hr/images/hcrtica.gif
-image http://www.gastronaut.hr/images/hcrtica.gif
-image http://www.gastronaut.hr/images/hcrtica.gif
-image http://www.gastronaut.hr/images/hcrtica.gif

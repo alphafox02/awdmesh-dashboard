@@ -1,3 +1,0 @@
-#@#config splash-HTML
-page http://dashboard.awdmesh.com/users_splash/alex/splash.txt
-image http://dashboard.awdmesh.com/splash/ckeditor/plugins/smiley/images/omg_smile.gif

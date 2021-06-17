@@ -1,3 +1,0 @@
-#@#config splash-HTML
-page http://dashboard.awdmesh.com/users_splash/RFKGreenway/splash.txt
-image http://www.rosekennedygreenway.org/files/5913/0763/9875/agree.gif

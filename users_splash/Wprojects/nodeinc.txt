@@ -1,3 +1,0 @@
-#@#config splash-HTML
-page http://dashboard.awdmesh.com/users_splash/Wprojects/splash.txt
-image http://dashboard.awdmesh.com/users_splash/Wprojects/images/ebhc.png

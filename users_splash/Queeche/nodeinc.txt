@@ -1,5 +1,0 @@
-#@#config splash-HTML
-page http://dashboard.awdmesh.com/users_splash/Queeche/splash.txt
-image https://www.wifi-soft.net/wifilanimages/portal/45/login/2135/header2.gif
-image https://www.wifi-soft.net/wifilanimages/portal/45/login/2135/001551_s.jpg
-image http://summittechnologies.biz/images/newlogo4.jpg

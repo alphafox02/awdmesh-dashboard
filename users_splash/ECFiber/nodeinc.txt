@@ -1,3 +1,0 @@
-#@#config splash-HTML
-page http://dashboard.awdmesh.com/users_splash/ECFiber/splash.txt
-image http://www.ecfiber.net/files/cache/e192525e339cd5754fb795d4272610f5.jpg

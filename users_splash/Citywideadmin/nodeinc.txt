@@ -1,8 +1,0 @@
-#@#config splash-HTML
-page http://dashboard.awdmesh.com/users_splash/Citywideadmin/splash.txt
-image http://dashboard.awdmesh.com/users_splash/Citywideadmin/images/SEAWATCHTOWERS.jpg
-image http://dashboard.awdmesh.com/users_splash/Citywideadmin/images/sea-watch-pool1.jpg
-image http://dashboard.awdmesh.com/splash/ckeditor/plugins/templates/templates/images/Header2-Hotel.gif
-image http://dashboard.awdmesh.com/splash/ckeditor/plugins/templates/templates/images/Spacer.gif
-image http://dashboard.awdmesh.com/users_splash/Citywideadmin/images/surfer%20logo%20round.png
-image http://dashboard.awdmesh.com/splash/ckeditor/plugins/templates/templates/images/Button.gif
